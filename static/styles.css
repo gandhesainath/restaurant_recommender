@@ -1,0 +1,49 @@
+
+body {
+    background-image: url('../static/image2.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    color: #ffffff; 
+    font-family: Arial, sans-serif; 
+}
+
+.container {
+    background-color: rgba(0, 0, 0, 0.7); 
+    padding: 30px; 
+    border-radius: 10px; 
+    margin-top: 50px; 
+}
+
+h1 {
+    text-align: center; /* Center the heading */
+    margin-bottom: 20px; /* Space below the heading */
+}
+
+.form-group label {
+    font-weight: bold; /* Bold font for labels */
+}
+
+.btn-primary {
+    background-color: #007bff; /* Bootstrap primary color */
+    border: none; /* Remove border */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+.table {
+    background-color: rgba(255, 255, 255, 0.9); /* White background for the table */
+}
+
+.table th, .table td {
+    text-align: center; /* Center text in table cells */
+}
+
+.btn-secondary {
+    background-color: #6c757d; /* Bootstrap secondary color */
+}
+
+.btn-secondary:hover {
+    background-color: #5a6268; /* Darker gray on hover */
+}
